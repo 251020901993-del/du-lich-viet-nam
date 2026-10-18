@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+<defs><linearGradient id="a" x2="0" y2="1"><stop stop-color="#a9e3e5"/><stop offset="1" stop-color="#f6eac4"/></linearGradient><linearGradient id="b" x2="0" y2="1"><stop stop-color="#4fb9b2"/><stop offset="1" stop-color="#187a83"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#a)"/><circle cx="630" cy="88" r="42" fill="#ffd46e"/>
+<path d="M0 290 Q90 220 170 270 T360 255 T560 275 T800 235V380H0Z" fill="#8bb8a8"/>
+<path d="M0 350 Q110 320 240 350 T500 340 T800 330V520H0Z" fill="url(#b)"/>
+<g fill="#386e5c"><path d="M70 370Q80 245 145 180Q205 248 208 370Z"/><path d="M195 375Q222 230 290 200Q350 265 357 375Z"/><path d="M430 370Q455 260 510 220Q565 270 578 370Z"/><path d="M600 378Q625 285 672 245Q730 290 745 378Z"/></g>
+<g fill="#bfd2a5"><path d="M105 290L145 180L181 290Z"/><path d="M248 288L290 200L327 291Z"/><path d="M475 299L510 220L546 299Z"/><path d="M642 310L672 245L708 310Z"/></g>
+<g stroke="#d8f2e6" stroke-width="4" opacity=".8"><path d="M35 425h145 M260 455h125 M495 420h180 M650 485h95"/></g>
+</svg>

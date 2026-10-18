@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+<title id="title">Vịnh biển Việt Nam</title><desc id="desc">Minh họa mặt trời, núi xanh và thuyền buồm trên biển.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#9edce0"/><stop offset="1" stop-color="#f4f3d7"/></linearGradient><linearGradient id="sea" x2="0" y2="1"><stop stop-color="#49aeb1"/><stop offset="1" stop-color="#176d78"/></linearGradient></defs>
+<rect width="1000" height="650" fill="url(#sky)"/><circle cx="770" cy="125" r="58" fill="#ffd778"/>
+<path d="M0 320 L100 230 L180 290 L300 170 L420 300 L530 205 L680 310 L790 220 L1000 325 V450 H0Z" fill="#6ea9a0"/>
+<path d="M0 375 L140 285 L230 350 L370 245 L495 375 L620 285 L755 375 L875 275 L1000 355 V490 H0Z" fill="#347f73"/>
+<path d="M0 390 Q180 365 330 405 T650 400 T1000 390 V650 H0Z" fill="url(#sea)"/>
+<g fill="#e7f0d5"><path d="M165 388 Q195 312 230 388Z"/><path d="M260 407 Q300 280 348 407Z"/><path d="M500 400 Q535 320 570 400Z"/><path d="M690 407 Q740 295 790 407Z"/><path d="M820 400 Q858 340 900 400Z"/></g>
+<g stroke="#fff1cb" stroke-width="5" stroke-linecap="round" opacity=".7"><path d="M80 475h110 M260 525h180 M660 495h135 M820 565h100"/><path d="M310 460h70 M530 555h100 M105 585h120"/></g>
+<g transform="translate(520 390)"><path d="M0 0 L-105 85 L120 85 L70 115 L-65 115Z" fill="#f8e0a7"/><path d="M0 0V80L-65 80Z" fill="#fff8e4"/><path d="M10 15L76 78H10Z" fill="#d36e4a"/><path d="M0 -12V88" stroke="#704c3e" stroke-width="7"/></g>
+</svg>
